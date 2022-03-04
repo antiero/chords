@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f53bc1b26fd1481091485ca15744c78, type: 3}
   m_Name: VideopakSettings
   m_EditorClassIdentifier: 
-  pakName: Chords!
-  author: Mo Chreach!
-  icon: {fileID: 2800000, guid: 2b9c62d9ab6f7d24595ce04218f8a483, type: 3}
+  pakName: FXGyro
+  author: Ant
+  icon: {fileID: 2800000, guid: afe0eeb98b3dd42d69a66dba11c83418, type: 3}
